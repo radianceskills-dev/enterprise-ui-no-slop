@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enterprise UI - No Slop + Fiori"
+  short_description: "Build functional enterprise app UIs without AI filler"
+  default_prompt: "Review or implement this business application interface using no-slop content rules and SAP Fiori-inspired task patterns. Keep all copy functional, preserve existing requirements, and verify real workflow usability."
